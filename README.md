@@ -7,7 +7,7 @@ Feel free to download and modify both the json and the scraper and use them for 
 ## The data
 
 The json contains a list of the following data:
-```json
+```
 {
     "id": (int) Ingame id of the item,
     "name": (string) The name of the item,
@@ -56,12 +56,9 @@ And so, we need the offset and width of each item so that it can be properly sho
 "></div>
 ```
 Would result into this:
-<div style="
-    width: 33px; 
-    height: 50px; 
-    background-image: url('https://platinumgod.co.uk/images/repentance-rebirth-items.png'); 
-    background-position: -6452px 0;
-"></div>
+
+<img src="https://user-images.githubusercontent.com/15361251/179817195-ca74a660-3528-46f2-a979-5bca9bf0fe95.png" width="50px"/>
+<!-- Yeah github MD doesn't support the code above but bear with me it works anywhere else -->
 
 ## The scraper
 
