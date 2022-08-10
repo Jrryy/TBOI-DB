@@ -18,6 +18,7 @@ The json contains a list of the following data:
     "transformations": (list[string]) The possible transformations the item is part of,
     "expansion": (string) Expansion in which the item was added,
     "style": (list[string]{2}) Values of backgroundPosition, width to show the image of the item
+    "image": (string) image name that contains the sprite of this item
 }
 ```
 
@@ -40,7 +41,8 @@ An example entry for an item would look like this:
     "style": [
         "-6452px 0",
         "33px"
-    ]
+    ],
+    "image": "repentance-rebirth-items.png"
 }
 ```
 
