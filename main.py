@@ -32,16 +32,16 @@ main_div = soup.find('div', 'main')
 item_divs = main_div.find_all(recursive=False)
 
 expansion_index = (
-    ('Repentance', 2),
-    ('Afterbirth +', 6),
-    ('Afterbirth', 5),
-    ('Rebirth', 4),
+    ('Repentance', 2, 'repentance-items2.png'),
+    ('Afterbirth +', 6, 'repentance-ap-items.png'),
+    ('Afterbirth', 5, 'repentance-ab-items.png'),
+    ('Rebirth', 4, 'repentance-rebirth-items.png'),
 )
 
 items_list = []
 transformation_pattern = re.compile(r'Counts as 1 of 3 .* items needed towards the (.+) transformation\.?')
 
-for expansion, index in expansion_index:
+for expansion, index, image in expansion_index:
     expansion_items_divs = item_divs[index].find_all('li', recursive=False)
     for item_data in expansion_items_divs:
         item_id = item_data.find('p', 'r-itemid')
@@ -86,8 +86,10 @@ for expansion, index in expansion_index:
             'recharge': item_recharge,
             'pools': item_pools,
             'transformations': item_transformations,
-            'expansion': expansion if item_id != 263 else 'Rebirth',  # The clear rune is in a different sprite map
+            'expansion': expansion,
             'style': item_image_style,
+            # The clear rune is in a different sprite map
+            'image': image if item_id != 263 else 'repentance-rebirth-items.png',
         })
 
 with open('items.json', 'w') as file:
