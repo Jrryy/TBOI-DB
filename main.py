@@ -82,7 +82,7 @@ for expansion, index, image in expansion_index:
             if text.startswith('Type'):
                 item_type = text[6:]
             if text.startswith('Recharge'):
-                item_recharge = text[15:].rstrip(' (see above)')
+                item_recharge = text[15:].replace(' (see above)', '')
             if text.startswith('Item Pool'):
                 item_pools = text[11:].split(', ')
                 if item_pools == ['None (see above)']:

@@ -598,7 +598,7 @@
         "name": "The Bible",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Shop",
             "Library",
@@ -620,7 +620,7 @@
         "name": "The Book of Belial",
         "quality": 3,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Library",
             "Devil Room"
@@ -640,7 +640,7 @@
         "name": "The Necronomicon",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Library",
             "Secret Room",
@@ -680,7 +680,7 @@
         "name": "Mr. Boom",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Wrath Miniboss",
@@ -717,7 +717,7 @@
         "name": "Mom's Bra",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Challenge Room",
@@ -755,7 +755,7 @@
         "name": "Mom's Pad",
         "quality": 0,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Challenge Room",
@@ -776,7 +776,7 @@
         "name": "Bob's Rotten Head",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Sloth Miniboss"
@@ -796,7 +796,7 @@
         "name": "Teleport",
         "quality": 0,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -813,7 +813,7 @@
         "name": "Yum Heart",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room",
             "Super Lust Miniboss"
@@ -849,7 +849,7 @@
         "name": "Doctor's Remote",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -883,7 +883,7 @@
         "name": "Shoop Da Whoop!",
         "quality": 2,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Envy Miniboss",
@@ -1015,7 +1015,7 @@
         "name": "Lemon Mishap",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -1052,7 +1052,7 @@
         "name": "Book of Shadows",
         "quality": 3,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Library"
@@ -1142,7 +1142,7 @@
         "name": "Anarchist Cookbook",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Library",
@@ -1163,7 +1163,7 @@
         "name": "The Hourglass",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -1364,7 +1364,7 @@
         "name": "My Little Unicorn",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -1381,7 +1381,7 @@
         "name": "Book of Revelations",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Library"
@@ -1485,7 +1485,7 @@
         "name": "The Nail",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Devil Room",
             "Demon Beggar"
@@ -1505,7 +1505,7 @@
         "name": "We Need To Go Deeper",
         "quality": 2,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Secret Room",
             "Devil Room"
@@ -1523,7 +1523,7 @@
         "name": "Deck of Cards",
         "quality": 2,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Shop"
@@ -1541,7 +1541,7 @@
         "name": "Monstro's Tooth",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room"
         ],
@@ -1662,7 +1662,7 @@
         "name": "The Gamekid",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -1733,7 +1733,7 @@
         "name": "The Book of Sin",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room",
             "Library",
@@ -1830,7 +1830,7 @@
         "name": "Mom's Bottle of Pills",
         "quality": 1,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Shop",
@@ -1888,7 +1888,7 @@
         "name": "The D6",
         "quality": 4,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room"
         ],
@@ -1924,7 +1924,7 @@
         "name": "Pinking Shears",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -2222,7 +2222,7 @@
         "name": "Monster Manual",
         "quality": 1,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Devil Room",
@@ -2241,7 +2241,7 @@
         "name": "Dead Sea Scrolls",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Angel Room"
@@ -2296,7 +2296,7 @@
         "name": "Forget Me Now",
         "quality": 3,
         "type": "Active",
-        "recharge": "Instant (One time u",
+        "recharge": "Instant (One time use)",
         "pools": [
             "Item Room",
             "Secret Room",
@@ -2353,7 +2353,7 @@
         "name": "A Pony",
         "quality": 2,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "None (Headless horseman only)"
         ],
@@ -2463,7 +2463,7 @@
         "name": "Best Friend",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room"
         ],
@@ -2656,7 +2656,7 @@
         "name": "Prayer Card",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Angel Room"
@@ -2872,7 +2872,7 @@
         "name": "Crystal Ball",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "None (Fortune machine only)"
         ],
@@ -2909,7 +2909,7 @@
         "name": "Crack The Sky",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -2983,7 +2983,7 @@
         "name": "The Candle",
         "quality": 2,
         "type": "Active",
-        "recharge": "Timed (A few second",
+        "recharge": "Timed (A few seconds)",
         "pools": [
             "Shop"
         ],
@@ -3017,7 +3017,7 @@
         "name": "D20",
         "quality": 2,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room"
         ],
@@ -3106,7 +3106,7 @@
         "name": "Spider Butt",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -3182,7 +3182,7 @@
         "name": "Dad's Key",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Key Beggar"
@@ -3289,7 +3289,7 @@
         "name": "White Pony",
         "quality": 2,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "None (Conquest boss only)"
         ],
@@ -3489,7 +3489,7 @@
         "name": "Telepathy for Dummies",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Library"
@@ -4755,7 +4755,7 @@
         "name": "Clear Rune",
         "quality": 2,
         "type": "Active",
-        "recharge": "Vari",
+        "recharge": "Varies",
         "pools": [
             "Secret Room",
             "Crane Game"
@@ -5133,7 +5133,7 @@
         "name": "D100",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room"
         ],
@@ -5150,7 +5150,7 @@
         "name": "D4",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room"
         ],
@@ -5184,7 +5184,7 @@
         "name": "Blank Card",
         "quality": 2,
         "type": "Active",
-        "recharge": "Vari",
+        "recharge": "Varies",
         "pools": [
             "Shop",
             "Secret Room"
@@ -5202,7 +5202,7 @@
         "name": "Book of Secrets",
         "quality": 0,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Library",
@@ -5223,7 +5223,7 @@
         "name": "Box of Spiders",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -5242,7 +5242,7 @@
         "name": "Red Candle",
         "quality": 2,
         "type": "Active",
-        "recharge": "Timed (A few second",
+        "recharge": "Timed (A few seconds)",
         "pools": [
             "Shop"
         ],
@@ -5276,7 +5276,7 @@
         "name": "FLUSH!",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -5295,7 +5295,7 @@
         "name": "Satanic Bible",
         "quality": 4,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Library",
@@ -5316,7 +5316,7 @@
         "name": "Head of Krampus",
         "quality": 2,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "None (Krampus only)"
         ],
@@ -5333,7 +5333,7 @@
         "name": "Butter Bean",
         "quality": 1,
         "type": "Active",
-        "recharge": "Timed (A few second",
+        "recharge": "Timed (A few seconds)",
         "pools": [
             "Item Room",
             "Beggar"
@@ -5369,7 +5369,7 @@
         "name": "Converter",
         "quality": 2,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Shop"
         ],
@@ -5386,7 +5386,7 @@
         "name": "Pandora's Box",
         "quality": 2,
         "type": "Active",
-        "recharge": "One time u",
+        "recharge": "One time use",
         "pools": [
             "Shop",
             "Red Chest"
@@ -5857,7 +5857,7 @@
         "name": "Undefined",
         "quality": 2,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room"
         ],
@@ -5874,7 +5874,7 @@
         "name": "Scissors",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -5891,7 +5891,7 @@
         "name": "Breath of Life",
         "quality": 0,
         "type": "Active",
-        "recharge": "Timed (1 bar per second",
+        "recharge": "Timed (1 bar per second)",
         "pools": [
             "Angel Room"
         ],
@@ -6101,7 +6101,7 @@
         "name": "Boomerang",
         "quality": 1,
         "type": "Active",
-        "recharge": "Timed (A few second",
+        "recharge": "Timed (A few seconds)",
         "pools": [
             "Shop"
         ],
@@ -6262,7 +6262,7 @@
         "name": "Diplopia",
         "quality": 3,
         "type": "Active",
-        "recharge": "Instant (One time u",
+        "recharge": "Instant (One time use)",
         "pools": [
             "Shop"
         ],
@@ -6279,7 +6279,7 @@
         "name": "Placebo",
         "quality": 2,
         "type": "Active",
-        "recharge": "Vari",
+        "recharge": "Varies",
         "pools": [
             "Shop",
             "Greed Mode Shop"
@@ -6332,7 +6332,7 @@
         "name": "Mega Bean",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Greed Mode Item Room"
@@ -6350,7 +6350,7 @@
         "name": "Glass Cannon",
         "quality": 1,
         "type": "Active",
-        "recharge": "5 second",
+        "recharge": "5 seconds",
         "pools": [
             "Item Room",
             "Greed Mode Item Room"
@@ -6444,7 +6444,7 @@
         "name": "Box of Friends",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Shop",
             "Greed Mode Item Room"
@@ -6917,7 +6917,7 @@
         "name": "Friendly Ball",
         "quality": 2,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Greed Mode Item Room"
@@ -6935,7 +6935,7 @@
         "name": "Tear Detonator",
         "quality": 1,
         "type": "Active",
-        "recharge": "15 second",
+        "recharge": "15 seconds",
         "pools": [
             "Shop",
             "Greed Mode Item Room"
@@ -6989,7 +6989,7 @@
         "name": "D12",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Greed Mode Shop"
@@ -7362,7 +7362,7 @@
         "name": "D8",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 Room",
+        "recharge": "4 Rooms",
         "pools": [
             "Item Room",
             "Greed Mode Shop"
@@ -7598,7 +7598,7 @@
         "name": "Teleport 2.0",
         "quality": 3,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -7633,7 +7633,7 @@
         "name": "Kidney Bean",
         "quality": 1,
         "type": "Active",
-        "recharge": "1 Room",
+        "recharge": "1 Rooms",
         "pools": [
             "Item Room",
             "Greed Mode Item Room"
@@ -7651,7 +7651,7 @@
         "name": "Glowing Hour Glass",
         "quality": 3,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room",
             "Shop"
@@ -7929,7 +7929,7 @@
         "name": "D7",
         "quality": 1,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room"
         ],
@@ -7964,7 +7964,7 @@
         "name": "Mom's Box",
         "quality": 3,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Shop",
             "Greed Mode Shop",
@@ -8001,7 +8001,7 @@
         "name": "Mega Blast",
         "quality": 4,
         "type": "Active",
-        "recharge": "12 room",
+        "recharge": "12 rooms",
         "pools": [
             "Devil Room",
             "Greed Mode Devil Room"
@@ -8577,7 +8577,7 @@
         "name": "Plan C",
         "quality": 0,
         "type": "Active",
-        "recharge": "One time u",
+        "recharge": "One time use",
         "pools": [
             "Shop",
             "Devil Room",
@@ -8598,7 +8598,7 @@
         "name": "D1",
         "quality": 3,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -8615,7 +8615,7 @@
         "name": "Void",
         "quality": 4,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Devil Room",
             "Angel Room"
@@ -8633,7 +8633,7 @@
         "name": "Pause",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -8650,7 +8650,7 @@
         "name": "Smelter",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Shop"
         ],
@@ -8667,7 +8667,7 @@
         "name": "Compost",
         "quality": 2,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Shop"
         ],
@@ -8684,7 +8684,7 @@
         "name": "Dataminer",
         "quality": 0,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -8701,7 +8701,7 @@
         "name": "Clicker",
         "quality": 0,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room"
         ],
@@ -8718,7 +8718,7 @@
         "name": "MaMa Mega!",
         "quality": 3,
         "type": "Active",
-        "recharge": "One time u",
+        "recharge": "One time use",
         "pools": [
             "Shop",
             "Bomb Beggar"
@@ -8736,7 +8736,7 @@
         "name": "Wait What?",
         "quality": 1,
         "type": "Active",
-        "recharge": "10 second",
+        "recharge": "10 seconds",
         "pools": [
             "Item Room"
         ],
@@ -8753,7 +8753,7 @@
         "name": "Crooked Penny",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room",
             "Shop",
@@ -8772,7 +8772,7 @@
         "name": "Dull Razor",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Shop"
         ],
@@ -8789,7 +8789,7 @@
         "name": "Potato Peeler",
         "quality": 2,
         "type": "Active",
-        "recharge": "Non",
+        "recharge": "None",
         "pools": [
             "Shop",
             "Demon Beggar"
@@ -8807,7 +8807,7 @@
         "name": "Metronome",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -8824,7 +8824,7 @@
         "name": "D Infinity",
         "quality": 4,
         "type": "Active",
-        "recharge": "Vari",
+        "recharge": "Varies",
         "pools": [
             "Secret Room"
         ],
@@ -8841,7 +8841,7 @@
         "name": "Eden's Soul",
         "quality": 3,
         "type": "Active",
-        "recharge": "12 rooms (one time u",
+        "recharge": "12 rooms (one time use)",
         "pools": [
             "Angel Room"
         ],
@@ -9094,7 +9094,7 @@
         "name": "Brown Nugget",
         "quality": 0,
         "type": "Active",
-        "recharge": "7 second",
+        "recharge": "7 seconds",
         "pools": [
             "Item Room"
         ],
@@ -9145,7 +9145,7 @@
         "name": "Sharp Straw",
         "quality": 2,
         "type": "Active",
-        "recharge": "8 second",
+        "recharge": "8 seconds",
         "pools": [
             "Item Room"
         ],
@@ -9199,7 +9199,7 @@
         "name": "Delirious",
         "quality": 1,
         "type": "Active",
-        "recharge": "12 room",
+        "recharge": "12 rooms",
         "pools": [
             "Angel Room"
         ],
@@ -9233,7 +9233,7 @@
         "name": "Black Hole",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -9284,7 +9284,7 @@
         "name": "Mystery Gift",
         "quality": 3,
         "type": "Active",
-        "recharge": "One time u",
+        "recharge": "One time use",
         "pools": [
             "Shop"
         ],
@@ -9301,7 +9301,7 @@
         "name": "Sprinkler",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -9390,7 +9390,7 @@
         "name": "Coupon",
         "quality": 2,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item room",
             "Shop",
@@ -9409,7 +9409,7 @@
         "name": "Telekinesis",
         "quality": 1,
         "type": "Active",
-        "recharge": "6 second",
+        "recharge": "6 seconds",
         "pools": [
             "Item Room",
             "Greed Mode Item Room"
@@ -9427,7 +9427,7 @@
         "name": "Moving Box",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Shop"
         ],
@@ -9498,7 +9498,7 @@
         "name": "Mr. ME!",
         "quality": 3,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Shop",
             "Key Beggar"
@@ -9653,7 +9653,7 @@
         "name": "Sacrificial Altar",
         "quality": 2,
         "type": "Active",
-        "recharge": "Single u",
+        "recharge": "Single use",
         "pools": [
             "Devil Room",
             "Curse Room"
@@ -9814,7 +9814,7 @@
         "name": "Book of the Dead",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Library",
@@ -9905,7 +9905,7 @@
         "name": "Broken Shovel (Active)",
         "quality": 4,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [],
         "transformations": [],
         "expansion": "Afterbirth +",
@@ -9935,7 +9935,7 @@
         "name": "Mom's Shovel",
         "quality": 4,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [],
         "transformations": [],
         "expansion": "Afterbirth +",
@@ -10002,7 +10002,7 @@
         "name": "Sulfur",
         "quality": 2,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Devil Room"
         ],
@@ -10021,7 +10021,7 @@
         "name": "Fortune Cookie",
         "quality": 2,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -10374,7 +10374,7 @@
         "name": "Damocles",
         "quality": 2,
         "type": "Active",
-        "recharge": "One time u",
+        "recharge": "One time use",
         "pools": [
             "Devil Room"
         ],
@@ -10391,7 +10391,7 @@
         "name": "Free Lemonade",
         "quality": 1,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -10425,7 +10425,7 @@
         "name": "Red Key",
         "quality": 3,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Secret Room",
             "Red Chest",
@@ -10503,7 +10503,7 @@
         "name": "Book of Virtues",
         "quality": 3,
         "type": "Active/Passive Item",
-        "recharge": "Vari",
+        "recharge": "Varies",
         "pools": [
             "Angel Room",
             "Library"
@@ -10523,7 +10523,7 @@
         "name": "Alabaster Box",
         "quality": 2,
         "type": "Active",
-        "recharge": "12 charges (one time u",
+        "recharge": "12 charges (one time use)",
         "pools": [
             "Shop"
         ],
@@ -10852,7 +10852,7 @@
         "name": "The Scooper",
         "quality": 0,
         "type": "Active",
-        "recharge": "3 room",
+        "recharge": "3 rooms",
         "pools": [
             "Item Room"
         ],
@@ -10924,7 +10924,7 @@
         "name": "Eternal D6",
         "quality": 3,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Secret Room",
@@ -10960,7 +10960,7 @@
         "name": "Larynx",
         "quality": 2,
         "type": "Active",
-        "recharge": "12 rooms (Can be used with partial charg",
+        "recharge": "12 rooms (Can be used with partial charges)",
         "pools": [
             "Item Room",
             "Greed Mode Item Room"
@@ -11135,7 +11135,7 @@
         "name": "Genesis",
         "quality": 2,
         "type": "Active",
-        "recharge": "One time u",
+        "recharge": "One time use",
         "pools": [
             "Angel Room",
             "Greed Mode Angel Room"
@@ -11188,7 +11188,7 @@
         "name": "Mega Mush",
         "quality": 4,
         "type": "Active",
-        "recharge": "12 room",
+        "recharge": "12 rooms",
         "pools": [
             "Item Room"
         ],
@@ -11237,7 +11237,7 @@
         "name": "Death Certificate",
         "quality": 4,
         "type": "Active",
-        "recharge": "1 time u",
+        "recharge": "1 time use",
         "pools": [
             "Secret Room"
         ],
@@ -11275,7 +11275,7 @@
         "name": "Meat Cleaver",
         "quality": 1,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room"
         ],
@@ -11344,7 +11344,7 @@
         "name": "Stitches",
         "quality": 1,
         "type": "Active, Familiar",
-        "recharge": "3 second",
+        "recharge": "3 seconds",
         "pools": [
             "Item Room"
         ],
@@ -11361,7 +11361,7 @@
         "name": "R Key",
         "quality": 4,
         "type": "Active",
-        "recharge": "Single u",
+        "recharge": "Single use",
         "pools": [
             "Secret Room"
         ],
@@ -11395,7 +11395,7 @@
         "name": "Eraser",
         "quality": 2,
         "type": "Active",
-        "recharge": "1 room (Can only be used once per floor",
+        "recharge": "1 room (Can only be used once per floor)",
         "pools": [
             "Shop",
             "Crane Game"
@@ -11413,7 +11413,7 @@
         "name": "Yuck Heart",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room",
             "Rotten Beggar"
@@ -11431,7 +11431,7 @@
         "name": "Urn of Souls",
         "quality": 3,
         "type": "Active",
-        "recharge": "Non",
+        "recharge": "None",
         "pools": [
             "Angel Room"
         ],
@@ -11465,7 +11465,7 @@
         "name": "Magic Skin",
         "quality": 2,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Shop",
             "Red Chest",
@@ -11596,7 +11596,7 @@
         "name": "Plum Flute",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room"
         ],
@@ -12157,7 +12157,7 @@
         "name": "Jar of Wisps",
         "quality": 2,
         "type": "Active",
-        "recharge": "12 room",
+        "recharge": "12 rooms",
         "pools": [
             "Angel Room"
         ],
@@ -12191,7 +12191,7 @@
         "name": "Friend Finder",
         "quality": 3,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Item Room",
             "Crane Game"
@@ -12497,7 +12497,7 @@
         "name": "Berserk!",
         "quality": 3,
         "type": "Active",
-        "recharge": "Enemy damage taken = charg",
+        "recharge": "Enemy damage taken = charge",
         "pools": [
             "Devil Room"
         ],
@@ -12514,7 +12514,7 @@
         "name": "Dark Arts",
         "quality": 2,
         "type": "Active",
-        "recharge": "7 second",
+        "recharge": "7 seconds",
         "pools": [
             "Devil Room"
         ],
@@ -12531,7 +12531,7 @@
         "name": "Abyss",
         "quality": 4,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Devil Room"
         ],
@@ -12582,7 +12582,7 @@
         "name": "Suplex!",
         "quality": 3,
         "type": "Active",
-        "recharge": "8 second",
+        "recharge": "8 seconds",
         "pools": [
             "Item Room",
             "Crane Game"
@@ -12617,7 +12617,7 @@
         "name": "Flip",
         "quality": 4,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Curse Room",
             "Secret Room",
@@ -12636,7 +12636,7 @@
         "name": "Lemegeton",
         "quality": 3,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Devil Room",
             "Library"
@@ -12656,7 +12656,7 @@
         "name": "Sumptorium",
         "quality": 3,
         "type": "Active",
-        "recharge": "10 second",
+        "recharge": "10 seconds",
         "pools": [
             "Item Room"
         ],
@@ -12673,7 +12673,7 @@
         "name": "Recall",
         "quality": 0,
         "type": "Active",
-        "recharge": "3 second",
+        "recharge": "3 seconds",
         "pools": [
             "None"
         ],
@@ -12745,7 +12745,7 @@
         "name": "Keeper's Box",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 room",
+        "recharge": "4 rooms",
         "pools": [
             "Shop",
             "Secret Room",
@@ -12764,7 +12764,7 @@
         "name": "Everything Jar",
         "quality": 2,
         "type": "Active",
-        "recharge": "12 room",
+        "recharge": "12 rooms",
         "pools": [
             "Item Room",
             "Crane Game"
@@ -12799,7 +12799,7 @@
         "name": "Anima Sola",
         "quality": 2,
         "type": "Active",
-        "recharge": "15 second",
+        "recharge": "15 seconds",
         "pools": [
             "Item Room"
         ],
@@ -12816,7 +12816,7 @@
         "name": "Spindown Dice",
         "quality": 4,
         "type": "Active",
-        "recharge": "6 room",
+        "recharge": "6 rooms",
         "pools": [
             "Item Room",
             "Secret Room",
@@ -12904,7 +12904,7 @@
         "name": "Gello",
         "quality": 3,
         "type": "Active",
-        "recharge": "2 room",
+        "recharge": "2 rooms",
         "pools": [
             "Item Room",
             "Devil Room"
@@ -12922,7 +12922,7 @@
         "name": "Decap Attack",
         "quality": 2,
         "type": "Active",
-        "recharge": "4 second",
+        "recharge": "4 seconds",
         "pools": [
             "Item Room"
         ],
