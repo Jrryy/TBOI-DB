@@ -40,6 +40,7 @@ expansion_index = (
 
 items_list = []
 transformation_pattern = re.compile(r'Counts as 1 of 3 .* items needed towards the (.+) transformation\.?')
+booster_pack_pattern = re.compile(r'Added as part of the Afterbirth\+ Booster Pack #\d.*')
 
 for expansion, index, image in expansion_index:
     expansion_items_divs = item_divs[index].find_all('li', recursive=False)
@@ -52,15 +53,24 @@ for expansion, index, image in expansion_index:
 
         item_id = int(item_id.string[8:])
         item_name = item_name.string
+        # The two parts of Mom's Shovel have the same name. We need to differentiate them
+        if item_id == 550:
+            item_name += ' (Active)'
+        if item_id == 551:
+            item_name += ' (Passive)'
         item_quality = int(item_quality.string[9:])
 
         item_image_style = rules[item_id]
 
         item_transformations = []
+        item_booster_pack = False
         for description in item_data.stripped_strings:
             matching_transformation = transformation_pattern.match(description)
+            matching_booster_pack = booster_pack_pattern.match(description)
             if matching_transformation:
                 item_transformations.append(matching_transformation.group(1))
+            elif matching_booster_pack:
+                item_booster_pack = True
 
         other_data_ul = item_data.find('ul')
         if not other_data_ul:
@@ -78,6 +88,14 @@ for expansion, index, image in expansion_index:
                 if item_pools == ['None (see above)']:
                     item_pools = []
 
+        item_image = image
+        # The clear rune is in a different sprite map
+        if item_id == 263:
+            item_image = 'repentance-rebirth-items.png'
+        # So are items from the AB+ booster packs
+        elif item_booster_pack:
+            item_image = 'repentance-booster-items.png'
+
         items_list.append({
             'id': item_id,
             'name': item_name,
@@ -88,8 +106,7 @@ for expansion, index, image in expansion_index:
             'transformations': item_transformations,
             'expansion': expansion,
             'style': item_image_style,
-            # The clear rune is in a different sprite map
-            'image': image if item_id != 263 else 'repentance-rebirth-items.png',
+            'image': item_image,
         })
 
 with open('items.json', 'w') as file:
